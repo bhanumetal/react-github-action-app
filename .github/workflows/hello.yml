@@ -13,4 +13,6 @@ jobs:
         run: node -v
       - name: Show Current Folder
         run: pwd
+      - name: Show List of Files
+        run: ls
   
