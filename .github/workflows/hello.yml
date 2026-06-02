@@ -9,5 +9,6 @@ jobs:
     steps:
       - name: Print Message
         run: echo "Hello, World!"
-  
+      - name: Show Node Version
+        run: node -v
   
