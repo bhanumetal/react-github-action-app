@@ -1,4 +1,5 @@
 function App() {
+  const unused = "fail";
   return (
     <div>
       <h1>My GitHub Actions Course</h1>
